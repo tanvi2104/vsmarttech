@@ -4,11 +4,9 @@ Welcome to our VSmart_Tech project repository! This project was created to work 
 ## Table of Contents
 
 - [About](#about)
-- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
